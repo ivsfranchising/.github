@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../logo1.png" alt="Instituto Visão Solidária Logo" width="300">
+  <img src="../logo1.png" alt="Instituto Visão Solidária Logo" width="500">
 
   # Instituto Visão Solidária (IVS) 👓
 

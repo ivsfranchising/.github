@@ -48,5 +48,5 @@ Fique por dentro das nossas ações e oportunidades de expansão:
 
 ---
 <div align="center">
-  <sub>Este perfil é gerido pelo parceiro de tecnologia [Maprosoft](https://maprosoft.com.br) do Instituto Visão Solidária (IVS).</sub>
+  <sub>Este perfil é gerido pelo parceiro de tecnologia [Maprosoft](https://maprosoft.com.br/) do Instituto Visão Solidária (IVS).</sub>
 </div>
